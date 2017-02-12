@@ -1,0 +1,110 @@
+.bg-image {
+	background-image: url(https://s-media-cache-ak0.pinimg.com/originals/42/97/15/42971507604eed0ea9332dfd4993f3a1.jpg);
+	background-size: cover;
+	height: 100vh
+	
+}
+
+.test1{
+	height: 60vh;
+	background:rgba(255,255,255, 0.6);
+}
+.btn-font{
+	font-family: arial;
+}
+.img-size {
+	width: 100%;
+}
+
+.whiteCol{
+	color: white;
+}
+
+.font-arial {
+	font-family: arial;
+	font-weight: bold;
+	font-size: 15px
+}
+.white-bg{
+	background-color: whitesmoke;
+}
+
+.navbar a {
+	color: black;
+}
+
+
+.margin-top-header{
+	top:200px;
+	position: relative;
+}
+
+section{
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.about{
+	background-color: rgb(179, 217, 255); 
+}
+
+.font-about{
+	font-family: georgia;
+	font-size: 20px;
+	font-weight: bold;
+}
+.font-about2{
+	font-family: georgia;
+	font-size: 20px;
+}
+.font-nationality{
+	font-family: times
+}
+h2{
+	font-family: courier;
+}
+h1{
+	font-family: courier;
+}
+
+li{
+	font-family: times;
+	font-size: 16px;
+}
+
+h3{
+	font-family: georgia;
+}
+
+h4{
+	font-family: georgia;
+	font-weight: bold;
+}
+
+.black {
+	color: black;
+}
+
+.work-experience{
+	background-color: white;
+}
+.extra-curricular{
+	background-color: rgb(0, 128, 64);
+}
+.hr{
+	border-top: 1px solid;
+}
+
+.font-links{
+	font-size: 16px;
+}
+
+.contact{
+	background-color: rgb(122, 31, 92);
+}
+.colorContact{
+	color: black;
+}
+.margin-down{
+	margin-bottom: 29px;
+}
